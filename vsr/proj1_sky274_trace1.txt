@@ -1,0 +1,115 @@
+﻿Script started on Tue 29 Sep 2015 08:028:05 PM CDT
+sky274@turandot:/v/filer4b/v38q001/sky274/ir/vsr$ java ir.vsr.InvertedIndexWithQueryCount -html /u/mooney/ir-code/corpora/dmoz-science/
+Indexing documents in /u/mooney/ir-code/corpora/dmoz-science
+chempage1.html,chempage2.html,chempage3.html,chempage4.html,chempage5.html,chempage6.html,chempage7.html,chempage8.html,chempage9.html,chempage10.html,chempage11.html,chempage12.html,chempage13.html,chempage14.html,chempage15.html,chempage16.html,chempage17.html,chempage18.html,chempage19.html,chempage20.html,chempage21.html,chempage22.html,chempage23.html,chempage24.html,chempage25.html,chempage26.html,chempage27.html,chempage28.html,chempage29.html,chempage30.html,chempage31.html,chempage32.html,chempage33.html,chempage34.html,chempage35.html,chempage36.html,chempage37.html,chempage38.html,chempage39.html,chempage40.html,chempage41.html,chempage42.html,chempage43.html,chempage44.html,chempage45.html,chempage46.html,chempage47.html,chempage48.html,chempage49.html,chempage50.html,chempage51.html,chempage52.html,chempage53.html,chempage54.html,chempage55.html,chempage56.html,chempage57.html,chempage58.html,chempage59.html,chempage60.html,chempage61.html,chempage62.html,chempage63.html,chempage64.html,chempage65.html,chempage66.html,chempage67.html,chempage68.html,chempage69.html,chempage70.html,chempage71.html,chempage72.html,chempage73.html,chempage74.html,chempage75.html,chempage76.html,chempage77.html,chempage78.html,chempage79.html,chempage80.html,chempage81.html,chempage82.html,chempage83.html,chempage84.html,chempage85.html,chempage86.html,chempage87.html,chempage88.html,chempage89.html,chempage90.html,chempage91.html,chempage92.html,chempage93.html,chempage94.html,chempage95.html,chempage96.html,chempage97.html,chempage98.html,chempage99.html,chempage100.html,chempage101.html,chempage102.html,chempage103.html,chempage104.html,chempage105.html,chempage106.html,chempage107.html,chempage108.html,chempage109.html,chempage110.html,chempage111.html,chempage112.html,chempage113.html,chempage114.html,chempage115.html,chempage116.html,chempage117.html,chempage118.html,chempage119.html,chempage120.html,chempage121.html,chempage122.html,chempage123.html,chempage124.html,chempage125.html,chempage126.html,chempage127.html,chempage128.html,chempage129.html,chempage130.html,chempage131.html,chempage132.html,chempage133.html,chempage134.html,chempage135.html,chempage136.html,chempage137.html,chempage138.html,chempage139.html,chempage140.html,chempage141.html,chempage142.html,chempage143.html,chempage144.html,chempage145.html,chempage146.html,chempage147.html,chempage148.html,chempage149.html,chempage150.html,chempage151.html,chempage152.html,chempage153.html,chempage154.html,chempage155.html,chempage156.html,chempage157.html,chempage158.html,chempage159.html,chempage160.html,chempage161.html,chempage162.html,chempage163.html,chempage164.html,chempage165.html,chempage166.html,chempage167.html,chempage168.html,chempage169.html,chempage170.html,chempage171.html,chempage172.html,chempage173.html,chempage174.html,chempage175.html,chempage176.html,chempage177.html,chempage178.html,chempage179.html,chempage180.html,chempage181.html,chempage182.html,chempage183.html,chempage184.html,chempage185.html,chempage186.html,chempage187.html,chempage188.html,chempage189.html,chempage190.html,chempage191.html,chempage192.html,chempage193.html,chempage194.html,chempage195.html,chempage196.html,chempage197.html,chempage198.html,chempage199.html,chempage200.html,chempage201.html,chempage202.html,chempage203.html,chempage204.html,chempage205.html,chempage206.html,chempage207.html,chempage208.html,chempage209.html,chempage210.html,chempage211.html,chempage212.html,chempage213.html,chempage214.html,chempage215.html,chempage216.html,chempage217.html,chempage218.html,chempage219.html,chempage220.html,chempage221.html,chempage222.html,chempage223.html,chempage224.html,chempage225.html,chempage226.html,chempage227.html,chempage228.html,chempage229.html,chempage230.html,chempage231.html,chempage232.html,chempage233.html,chempage234.html,chempage235.html,chempage236.html,chempage237.html,chempage238.html,chempage239.html,chempage240.html,chempage241.html,chempage242.html,chempage243.html,chempage244.html,chempage245.html,chempage246.html,chempage247.html,chempage248.html,chempage249.html,chempage250.html,chempage251.html,chempage252.html,chempage253.html,chempage254.html,chempage255.html,chempage256.html,chempage257.html,chempage258.html,chempage259.html,chempage260.html,chempage261.html,chempage262.html,chempage263.html,chempage264.html,chempage265.html,chempage266.html,chempage267.html,chempage268.html,chempage269.html,chempage270.html,chempage271.html,chempage272.html,chempage273.html,chempage274.html,chempage275.html,chempage276.html,chempage277.html,chempage278.html,chempage279.html,chempage280.html,chempage281.html,chempage282.html,chempage283.html,chempage284.html,chempage285.html,chempage286.html,chempage287.html,chempage288.html,chempage289.html,chempage290.html,chempage291.html,chempage292.html,chempage293.html,chempage294.html,chempage295.html,chempage296.html,chempage297.html,chempage298.html,chempage299.html,chempage300.html,biopage1.html,biopage2.html,biopage3.html,biopage4.html,biopage5.html,biopage6.html,biopage7.html,biopage8.html,biopage9.html,biopage10.html,biopage11.html,biopage12.html,biopage13.html,biopage14.html,biopage15.html,biopage16.html,biopage17.html,biopage18.html,biopage19.html,biopage20.html,biopage21.html,biopage22.html,biopage23.html,biopage24.html,biopage25.html,biopage26.html,biopage27.html,biopage28.html,biopage29.html,biopage30.html,biopage31.html,biopage32.html,biopage33.html,biopage34.html,biopage35.html,biopage36.html,biopage37.html,biopage38.html,biopage39.html,biopage40.html,biopage41.html,biopage42.html,biopage43.html,biopage44.html,biopage45.html,biopage46.html,biopage47.html,biopage48.html,biopage49.html,biopage50.html,biopage51.html,biopage52.html,biopage53.html,biopage54.html,biopage55.html,biopage56.html,biopage57.html,biopage58.html,biopage59.html,biopage60.html,biopage61.html,biopage62.html,biopage63.html,biopage64.html,biopage65.html,biopage66.html,biopage67.html,biopage68.html,biopage69.html,biopage70.html,biopage71.html,biopage72.html,biopage73.html,biopage74.html,biopage75.html,biopage76.html,biopage77.html,biopage78.html,biopage79.html,biopage80.html,biopage81.html,biopage82.html,biopage83.html,biopage84.html,biopage85.html,biopage86.html,biopage87.html,biopage88.html,biopage89.html,biopage90.html,biopage91.html,biopage92.html,biopage93.html,biopage94.html,biopage95.html,biopage96.html,biopage97.html,biopage98.html,biopage99.html,biopage100.html,biopage101.html,biopage102.html,biopage103.html,biopage104.html,biopage105.html,biopage106.html,biopage107.html,biopage108.html,biopage109.html,biopage110.html,biopage111.html,biopage112.html,biopage113.html,biopage114.html,biopage115.html,biopage116.html,biopage117.html,biopage118.html,biopage119.html,biopage120.html,biopage121.html,biopage122.html,biopage123.html,biopage124.html,biopage125.html,biopage126.html,biopage127.html,biopage128.html,biopage129.html,biopage130.html,biopage131.html,biopage132.html,biopage133.html,biopage134.html,biopage135.html,biopage136.html,biopage137.html,biopage138.html,biopage139.html,biopage140.html,biopage141.html,biopage142.html,biopage143.html,biopage144.html,biopage145.html,biopage146.html,biopage147.html,biopage148.html,biopage149.html,biopage150.html,biopage151.html,biopage152.html,biopage153.html,biopage154.html,biopage155.html,biopage156.html,biopage157.html,biopage158.html,biopage159.html,biopage160.html,biopage161.html,biopage162.html,biopage163.html,biopage164.html,biopage165.html,biopage166.html,biopage167.html,biopage168.html,biopage169.html,biopage170.html,biopage171.html,biopage172.html,biopage173.html,biopage174.html,biopage175.html,biopage176.html,biopage177.html,biopage178.html,biopage179.html,biopage180.html,biopage181.html,biopage182.html,biopage183.html,biopage184.html,biopage185.html,biopage186.html,biopage187.html,biopage188.html,biopage189.html,biopage190.html,biopage191.html,biopage192.html,biopage193.html,biopage194.html,biopage195.html,biopage196.html,biopage197.html,biopage198.html,biopage199.html,biopage200.html,biopage201.html,biopage202.html,biopage203.html,biopage204.html,biopage205.html,biopage206.html,biopage207.html,biopage208.html,biopage209.html,biopage210.html,biopage211.html,biopage212.html,biopage213.html,biopage214.html,biopage215.html,biopage216.html,biopage217.html,biopage218.html,biopage219.html,biopage220.html,biopage221.html,biopage222.html,biopage223.html,biopage224.html,biopage225.html,biopage226.html,biopage227.html,biopage228.html,biopage229.html,biopage230.html,biopage231.html,biopage232.html,biopage233.html,biopage234.html,biopage235.html,biopage236.html,biopage237.html,biopage238.html,biopage239.html,biopage240.html,biopage241.html,biopage242.html,biopage243.html,biopage244.html,biopage245.html,biopage246.html,biopage247.html,biopage248.html,biopage249.html,biopage250.html,biopage251.html,biopage252.html,biopage253.html,biopage254.html,biopage255.html,biopage256.html,biopage257.html,biopage258.html,biopage259.html,biopage260.html,biopage261.html,biopage262.html,biopage263.html,biopage264.html,biopage265.html,biopage266.html,biopage267.html,biopage268.html,biopage269.html,biopage270.html,biopage271.html,biopage272.html,biopage273.html,biopage274.html,biopage275.html,biopage276.html,biopage277.html,biopage278.html,biopage279.html,biopage280.html,biopage281.html,biopage282.html,biopage283.html,biopage284.html,biopage285.html,biopage286.html,biopage287.html,biopage288.html,biopage289.html,biopage290.html,biopage291.html,biopage292.html,biopage293.html,biopage294.html,biopage295.html,biopage296.html,biopage297.html,biopage298.html,biopage299.html,biopage300.html,physpage1.html,physpage2.html,physpage3.html,physpage4.html,physpage5.html,physpage6.html,physpage7.html,physpage8.html,physpage9.html,physpage10.html,physpage11.html,physpage12.html,physpage13.html,physpage14.html,physpage15.html,physpage16.html,physpage17.html,physpage18.html,physpage19.html,physpage20.html,phys
+page21.html,physpage22.html,physpage23.html,physpage24.html,physpage25.html,physpage26.html,physpage27.html,physpage28.html,physpage29.html,physpage30.html,physpage31.html,physpage32.html,physpage33.html,physpage34.html,physpage35.html,physpage36.html,physpage37.html,physpage38.html,physpage39.html,physpage40.html,physpage41.html,physpage42.html,physpage43.html,physpage44.html,physpage45.html,physpage46.html,physpage47.html,physpage48.html,physpage49.html,physpage50.html,physpage51.html,physpage52.html,physpage53.html,physpage54.html,physpage55.html,physpage56.html,physpage57.html,physpage58.html,physpage59.html,physpage60.html,physpage61.html,physpage62.html,physpage63.html,physpage64.html,physpage65.html,physpage66.html,physpage67.html,physpage68.html,physpage69.html,physpage70.html,physpage71.html,physpage72.html,physpage73.html,physpage74.html,physpage75.html,physpage76.html,physpage77.html,physpage78.html,physpage79.html,physpage80.html,physpage81.html,physpage82.html,physpage83.html,physpage84.html,physpage85.html,physpage86.html,physpage87.html,physpage88.html,physpage89.html,physpage90.html,physpage91.html,physpage92.html,physpage93.html,physpage94.html,physpage95.html,physpage96.html,physpage97.html,physpage98.html,physpage99.html,physpage100.html,physpage101.html,physpage102.html,physpage103.html,physpage104.html,physpage105.html,physpage106.html,physpage107.html,physpage108.html,physpage109.html,physpage110.html,physpage111.html,physpage112.html,physpage113.html,physpage114.html,physpage115.html,physpage116.html,physpage117.html,physpage118.html,physpage119.html,physpage120.html,physpage121.html,physpage122.html,physpage123.html,physpage124.html,physpage125.html,physpage126.html,physpage127.html,physpage128.html,physpage129.html,physpage130.html,physpage131.html,physpage132.html,physpage133.html,physpage134.html,physpage135.html,physpage136.html,physpage137.html,physpage138.html,physpage139.html,physpage140.html,physpage141.html,physpage142.html,physpage143.html,physpage144.html,physpage145.html,physpage146.html,physpage147.html,physpage148.html,physpage149.html,physpage150.html,physpage151.html,physpage152.html,physpage153.html,physpage154.html,physpage155.html,physpage156.html,physpage157.html,physpage158.html,physpage159.html,physpage160.html,physpage161.html,physpage162.html,physpage163.html,physpage164.html,physpage165.html,physpage166.html,physpage167.html,physpage168.html,physpage169.html,physpage170.html,physpage171.html,physpage172.html,physpage173.html,physpage174.html,physpage175.html,physpage176.html,physpage177.html,physpage178.html,physpage179.html,physpage180.html,physpage181.html,physpage182.html,physpage183.html,physpage184.html,physpage185.html,physpage186.html,physpage187.html,physpage188.html,physpage189.html,physpage190.html,physpage191.html,physpage192.html,physpage193.html,physpage194.html,physpage195.html,physpage196.html,physpage197.html,physpage198.html,physpage199.html,physpage200.html,physpage201.html,physpage202.html,physpage203.html,physpage204.html,physpage205.html,physpage206.html,physpage207.html,physpage208.html,physpage209.html,physpage210.html,physpage211.html,physpage212.html,physpage213.html,physpage214.html,physpage215.html,physpage216.html,physpage217.html,physpage218.html,physpage219.html,physpage220.html,physpage221.html,physpage222.html,physpage223.html,physpage224.html,physpage225.html,physpage226.html,physpage227.html,physpage228.html,physpage229.html,physpage230.html,physpage231.html,physpage232.html,physpage233.html,physpage234.html,physpage235.html,physpage236.html,physpage237.html,physpage238.html,physpage239.html,physpage240.html,physpage241.html,physpage242.html,physpage243.html,physpage244.html,physpage245.html,physpage246.html,physpage247.html,physpage248.html,physpage249.html,physpage250.html,physpage251.html,physpage252.html,physpage253.html,physpage254.html,physpage255.html,physpage256.html,physpage257.html,physpage258.html,physpage259.html,physpage260.html,physpage261.html,physpage262.html,physpage263.html,physpage264.html,physpage265.html,physpage266.html,physpage267.html,physpage268.html,physpage269.html,physpage270.html,physpage271.html,physpage272.html,physpage273.html,physpage274.html,physpage275.html,physpage276.html,physpage277.html,physpage278.html,physpage279.html,physpage280.html,physpage281.html,physpage282.html,physpage283.html,physpage284.html,physpage285.html,physpage286.html,physpage287.html,physpage288.html,physpage289.html,physpage290.html,physpage291.html,physpage292.html,physpage293.html,physpage294.html,physpage295.html,physpage296.html,physpage297.html,physpage298.html,physpage299.html,physpage300.html,
+Indexed 900 documents with 59663 unique terms.
+Now able to process queries. When done, enter an empty query to exit.
+
+Enter query:  einstein rosen
+
+Top 10 matching Documents from most to least relevant:
+
+1.  physpage165.html     Score: 1.09712
+2.  biopage248.html      Score: 1.02999
+3.  physpage239.html     Score: 1.02277
+4.  physpage175.html     Score: 0.78937
+5.  physpage224.html     Score: 0.63504
+6.  physpage163.html     Score: 0.5922
+7.  physpage192.html     Score: 0.55997
+8.  physpage130.html     Score: 0.55931
+9.  physpage244.html     Score: 0.54305
+10. physpage19.html      Score: 0.53955
+
+Enter `m' to see more, a number to show the nth document, nothing to exit.
+
+ Enter command:  1
+Showing document 1 in the firefox window.
+
+ Enter command:  2
+Showing document 2 in the firefox window.
+
+ Enter command:  3
+Showing document 3 in the firefox window.
+
+ Enter command:  4
+Showing document 4 in the firefox window.
+
+ Enter command:  
+
+Enter query:  gravity waves
+
+Top 10 matching Documents from most to least relevant:
+
+1.  physpage224.html     Score: 1.24746
+2.  physpage12.html      Score: 1.2303
+3.  physpage213.html     Score: 1.14414
+4.  physpage130.html     Score: 1.08217
+5.  physpage231.html     Score: 1.08188
+6.  physpage287.html     Score: 1.07729
+7.  physpage19.html      Score: 1.07569
+8.  physpage78.html      Score: 1.05471
+9.  physpage41.html      Score: 1.03864
+10. physpage298.html     Score: 1.02456
+
+Enter `m' to see more, a number to show the nth document, nothing to exit.
+
+ Enter command:  1
+Showing document 1 in the firefox window.
+
+ Enter command:  2
+Showing document 2 in the firefox window.
+
+ Enter command:  3
+Showing document 3 in the firefox window.
+
+ Enter command:  4
+Showing document 4 in the firefox window.
+
+ Enter command:  5
+Showing document 5 in the firefox window.
+
+ Enter command:  6
+Showing document 6 in the firefox window.
+
+ Enter command:  
+
+Enter query:  oxygen atom
+
+Top 10 matching Documents from most to least relevant:
+
+1.  chempage201.html     Score: 1.07892
+2.  chempage144.html     Score: 1.07724
+3.  biopage269.html      Score: 1.07724
+4.  chempage206.html     Score: 1.02999
+5.  chempage260.html     Score: 1.0283
+6.  chempage183.html     Score: 1.01888
+7.  physpage139.html     Score: 1.0152
+8.  chempage90.html      Score: 1.01476
+9.  physpage102.html     Score: 0.79185
+10. physpage116.html     Score: 0.79143
+
+Enter `m' to see more, a number to show the nth document, nothing to exit.
+
+ Enter command:  1
+Showing document 1 in the firefox window.
+
+ Enter command:  2
+Showing document 2 in the firefox window.
+
+ Enter command:  3
+Showing document 3 in the firefox window.
+
+ Enter command:  4
+Showing document 4 in the firefox window.
+
+ Enter command:  5
+Showing document 10 in the firefox window.
+
+ Enter command:  
+
+Enter query:  
+sky274@turandot:/v/filer4b/v38q001/sky274/ir/vsr exit
+
+Script done on Tue 29 Sep 2015 08:30:10 PM CDT
+
